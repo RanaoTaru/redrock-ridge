@@ -6,164 +6,209 @@
 
 **Redrock Ridge** is more than a virtual world—it's a destination.
 
-Built with **Three.js**, Redrock Ridge is a real-time open-world virtual experience where players can escape everyday life and immerse themselves in a vast landscape filled with scenic roads, rugged mountains, peaceful coastlines, thriving towns, and endless opportunities for exploration.
+Built with **Three.js**, Redrock Ridge is a real-time open-world virtual experience where visitors can drive, explore, race, relax, and discover an ever-growing landscape shaped by creativity.
 
-Whether you're taking a relaxing drive at sunset, racing through mountain roads, discovering hidden trails, or simply enjoying the scenery, every journey becomes your own story.
+More than just a game environment, Redrock Ridge is a digital canvas where architects, designers, artists, creators, students, and developers can showcase their work as part of a living world. From modern buildings and museums to monuments, sculptures, parks, landscapes, and experimental concepts, every creation can become a destination for others to discover.
 
-Unlike traditional games that constantly push objectives, Redrock Ridge encourages freedom. There are no loading screens separating destinations—only one continuous world waiting to be explored.
+Instead of viewing projects in isolation, visitors experience them naturally while traveling across mountains, highways, forests, beaches, towns, and scenic landscapes.
+
+Whether you're taking a relaxing drive at sunset, photographing a landmark, exploring hidden roads, or presenting your latest architectural masterpiece, every journey becomes part of the experience.
 
 ---
 
-# 🌍 A Virtual Destination
+# 🌍 A Living Virtual Destination
 
-Redrock Ridge is designed to be a place players genuinely want to visit.
+Redrock Ridge is designed to be a place people genuinely want to visit.
 
-A place where you can unwind after work, explore new locations, enjoy long scenic drives, or simply spend time with friends in a beautiful virtual environment.
+Rather than existing as disconnected scenes or isolated models, every location belongs to one seamless open world.
 
 Visitors can:
 
-- 🚗 Cruise across hundreds of kilometers of interconnected roads
-- 🏁 Race through highways, mountain passes, and coastal routes
-- 🌅 Watch breathtaking sunsets from scenic overlooks
-- 🌊 Relax beside beaches, rivers, lakes, and waterfalls
+- 🚗 Cruise across hundreds of kilometers of roads
+- 🏁 Race through highways and mountain passes
+- 🌅 Watch breathtaking sunsets
+- 🌊 Relax beside beaches, rivers, and lakes
 - 🌲 Explore forests, valleys, cliffs, and hidden trails
-- 🏙️ Visit towns, neighborhoods, and landmarks
-- 📸 Capture cinematic screenshots and memorable moments
-- 🧍 Encounter dynamic NPCs and living environments
-- 🌤️ Experience changing weather and realistic day-night cycles
+- 🏙️ Visit towns and neighborhoods
+- 📸 Capture cinematic screenshots
+- 🧍 Meet friends and explore together
+- 🎨 Discover community-created landmarks
+- 🏛️ Visit architectural showcases
+- 🌤️ Experience changing weather and realistic lighting
 
-Whether you're looking for excitement or relaxation, Redrock Ridge offers a world where every visit feels different.
+Every visit offers something new.
+
+---
+
+# 🏛️ Built for Architects, Artists & Creators
+
+Redrock Ridge is more than a virtual experience.
+
+It's a platform for showcasing creativity.
+
+Architects can present buildings at real-world scale.
+
+Urban planners can prototype entire districts.
+
+Landscape designers can shape natural environments.
+
+Artists can install sculptures and monuments.
+
+Interior designers can showcase spaces people can actually walk through.
+
+Students can build portfolio projects that visitors can freely explore.
+
+Creators can transform ideas into destinations instead of static renders.
+
+Examples include:
+
+- 🏢 Commercial Buildings
+- 🏠 Residential Architecture
+- 🏛️ Museums
+- 🏰 Historic Reconstructions
+- 🌉 Bridges
+- 🛣️ Highway Systems
+- 🌳 Parks
+- 🌲 Landscapes
+- 🗿 Monuments
+- 🎨 Public Art
+- 🚗 Vehicle Concepts
+- 🪑 Product Design
+- 🏙️ Smart Cities
+- 🎭 Exhibition Spaces
+- 🌇 Entire City Districts
+
+Every contribution becomes another landmark inside Redrock Ridge.
 
 ---
 
 # 🚗 Built for Driving
 
-Driving is at the heart of Redrock Ridge.
+Driving is one of the core experiences of Redrock Ridge.
 
-The road network is carefully designed to make every trip enjoyable, whether you're casually cruising or pushing your vehicle to its limits.
-
-Experience:
+Explore:
 
 - Coastal highways
-- Mountain switchbacks
+- Mountain roads
 - Country roads
 - Dirt trails
-- Urban streets
 - Scenic overlooks
+- Hidden routes
 - Long uninterrupted road trips
 
-Every road has been created to encourage exploration rather than simply traveling from one point to another.
+Whether you're casually cruising or racing through mountain curves, every road is designed to encourage exploration.
 
 ---
 
 # 🌄 Explore Without Limits
 
-Redrock Ridge is one seamless open world.
+The world is fully connected.
 
-There are no isolated levels or disconnected maps.
+No isolated maps.
 
-Players can freely travel between mountains, forests, beaches, towns, rivers, and countryside without interruption.
+No disconnected levels.
 
-Every road can lead to somewhere unexpected.
+Travel seamlessly between mountains, forests, beaches, rivers, towns, highways, deserts, and countryside.
 
-Hidden locations reward curiosity.
+Every road can lead somewhere unexpected.
 
-Every drive can become an adventure.
+Every landmark tells a story.
+
+Every journey becomes unique.
 
 ---
 
 # 🌅 Your Digital Getaway
 
-Sometimes the best experience isn't completing missions.
+Not every virtual experience needs an objective.
 
-Sometimes it's simply enjoying the journey.
+Sometimes it's about slowing down.
 
-Take a peaceful drive through the countryside.
+Watch the sunset.
 
-Watch waves crash against the shoreline.
+Listen to the ocean.
 
-Park beside a mountain overlook.
+Drive through the countryside.
 
-Explore quiet backroads.
+Discover hidden places.
 
-Drive with friends.
+Meet friends.
 
-Take photos.
+Capture beautiful moments.
 
-Discover somewhere you've never been before.
+Explore without a destination.
 
-Redrock Ridge is designed to become a place players return to—not because they have to, but because they enjoy spending time there.
+Redrock Ridge is designed to become a place people return to—not because they have to, but because they enjoy spending time there.
 
 ---
 
 # ⚙️ Technology Behind the Experience
 
-While Redrock Ridge is designed as a virtual destination, it is also an open-world engine showcasing what modern web technologies can achieve.
+Redrock Ridge is powered entirely by modern web technologies.
 
 Core technologies include:
 
 - Three.js
 - Cannon.js Physics
-- JavaScript / TypeScript
-- Open-world streaming architecture
-- Dynamic entity systems
-- Multiplayer networking
-- Real-time rendering
-- Modular game systems
+- JavaScript
+- Open World Streaming
+- Real-time Rendering
+- Dynamic Entity Systems
+- Modular Architecture
+- Multiplayer-ready Framework
 
-These technologies work together to create a seamless world capable of supporting large environments, vehicles, NPCs, and future gameplay systems.
+These systems work together to create a seamless browser-based virtual world.
 
 ---
 
 # 🎓 Learn by Building
 
-Redrock Ridge isn't just a place to visit—it's also a place to learn.
+Redrock Ridge is also an educational platform.
 
-Developers can explore the project to better understand how modern browser-based open worlds are created.
+Whether you're an architect, designer, artist, student, or developer, you can learn how immersive browser-based virtual worlds are built.
 
-By studying or extending the project, you'll gain practical experience with:
+Topics include:
 
-- Large-scale world rendering
+- Large-scale environment creation
+- Architectural visualization
+- Real-time rendering
+- Three.js workflows
 - Open-world streaming
 - Physics simulation
+- Scene optimization
 - Vehicle systems
-- AI and NPC management
-- Multiplayer synchronization
-- Scene management
-- Real-time optimization
-- Modular game architecture
+- Interactive environments
+- Modular architecture
 
-The project serves as both an immersive virtual destination and a practical learning resource for developers interested in building similar experiences.
+Instead of simply studying examples, you can contribute your own creations and watch them become part of a living world.
 
 ---
 
 # ✨ Current Features
 
-- 🌍 Large seamless open-world environment
+- 🌍 Seamless open-world environment
 - 🚗 Driveable vehicles
 - 🧍 Dynamic NPC system
-- 🌊 Beaches, rivers, mountains, and forests
-- 🏙️ Towns and road networks
-- 🌤️ Dynamic environmental systems
+- 🛣️ Extensive road network
+- 🏛️ Creator-ready environment
 - ⚙️ Cannon.js physics
-- 🎮 Real-time Three.js rendering
-- 🌐 Open-world streaming architecture
-- 🧑‍🤝‍🧑 Multiplayer-ready framework
+- 🎮 Three.js rendering
+- 🌐 Open-world streaming
+- 🧑‍🤝‍🧑 Multiplayer-ready architecture
 
 ---
 
 # 🚧 Roadmap
 
-- [ ] Advanced AI navigation
-- [ ] Traffic simulation
 - [ ] Improved vehicle physics
-- [ ] Dynamic weather
-- [ ] Day and night cycle
-- [ ] World streaming optimization
-- [ ] Advanced lighting
-- [ ] Wildlife system
-- [ ] Additional locations
-- [ ] Expanded multiplayer features
+- [ ] Advanced weather system
+- [ ] Dynamic day & night cycle
+- [ ] Additional regions
+- [ ] Creator showcase tools
+- [ ] Community landmarks
+- [ ] Traffic simulation
+- [ ] Enhanced world streaming
+- [ ] Multiplayer improvements
 
 ---
 
@@ -178,19 +223,27 @@ The project serves as both an immersive virtual destination and a practical lear
 
 ---
 
+# 🌐 Live Demo
+
+Experience Redrock Ridge directly in your browser.
+
+https://arjexm.web.app/#threeviewer&&redrock-ridge
+
+---
+
 # 🚀 Getting Started
 
 ## Prerequisites
 
 Redrock Ridge must be launched through a local web server.
 
-Opening the project directly using:
+Opening the project directly using
 
 ```text
 file://
 ```
 
-will prevent JavaScript modules, 3D models, textures, and other assets from loading correctly due to browser security restrictions.
+will prevent JavaScript modules, textures, models, and other assets from loading correctly because of browser security restrictions.
 
 ---
 
@@ -198,11 +251,11 @@ will prevent JavaScript modules, 3D models, textures, and other assets from load
 
 1. Open the project folder.
 2. Install the **Live Server** extension.
-3. Open `redrock-ridge.html`.
+3. Open **public/redrock-ridge.html**
 4. Right-click the file.
-5. Select **Open with Live Server**.
+5. Select **Open with Live Server**
 
-The experience will launch automatically at something similar to:
+Example:
 
 ```text
 http://127.0.0.1:5500/public/redrock-ridge.html
@@ -214,9 +267,13 @@ http://127.0.0.1:5500/public/redrock-ridge.html
 
 1. Open the project.
 2. Start the built-in Live Server.
-3. Open `redrock-ridge.html`.
+3. Open:
 
-Then visit:
+```text
+public/redrock-ridge.html
+```
+
+Visit:
 
 ```text
 http://127.0.0.1:5500/public/redrock-ridge.html
@@ -226,25 +283,25 @@ http://127.0.0.1:5500/public/redrock-ridge.html
 
 ## Sublime Text
 
-Use any Live Server or local web server package.
+Use any Live Server package or local web server.
 
 Open:
 
 ```text
-redrock-ridge.html
+public/redrock-ridge.html
 ```
 
-Then launch the server and open:
+Then visit:
 
 ```text
-http://127.0.0.1:5500/redrock-ridge.html
+http://127.0.0.1:5500/public/redrock-ridge.html
 ```
 
 ---
 
-## Any Other Editor
+## Other Editors
 
-Any IDE or editor capable of serving a local website will work, including:
+Redrock Ridge works with any editor capable of serving local websites, including:
 
 - Visual Studio Code
 - Pulse Editor
@@ -256,10 +313,8 @@ Any IDE or editor capable of serving a local website will work, including:
 Simply start a local web server and open:
 
 ```text
-http://127.0.0.1:5500/redrock-ridge.html
+http://127.0.0.1:5500/public/redrock-ridge.html
 ```
-
-(Your port number may be different.)
 
 ---
 
@@ -271,22 +326,28 @@ If Python is installed:
 python -m http.server 8000
 ```
 
-Then open:
+Then visit:
 
 ```text
-http://127.0.0.1:8000/redrock-ridge.html
+http://127.0.0.1:8000/public/redrock-ridge.html
 ```
+
+---
+
+# 🤝 Contributing
+
+Architects, artists, designers, students, and developers are welcome to contribute.
+
+Whether it's a new building, a bridge, a sculpture, a park, a landscape, a monument, or an entire district, your work can become part of the Redrock Ridge world.
+
+Every contribution helps expand a virtual destination that people can drive through, explore, and enjoy together.
 
 ---
 
 # 🌟 Vision
 
-Redrock Ridge is built around one simple idea:
+Redrock Ridge is built around one idea:
 
-Create a virtual place people genuinely enjoy visiting.
+Create a virtual destination where architecture, art, design, and technology come together in one living open world.
 
-A destination where players can race, explore, relax, discover, and create memories.
-
-At the same time, it serves as an open-world project demonstrating how immersive browser-based virtual experiences are built using modern web technologies.
-
-Whether you're here to drive, explore, learn, or build, welcome to **Redrock Ridge**.
+A place where visitors escape reality, creators showcase their imagination, and every road leads to something worth discovering.
