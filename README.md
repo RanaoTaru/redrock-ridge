@@ -2,8 +2,6 @@
 
 <img width="1716" height="917" alt="a0eb4f90-49f2-40b4-bcf0-240e41b8bb1a" src="https://github.com/user-attachments/assets/14882907-f64c-457e-aaaf-54980aa8b837" />
 
-https://youtu.be/xipszTTazMo?si=NE9qWTab8BoAsaK0
-
 # 🌄 Escape. Explore. Experience.
 
 **Redrock Ridge** is more than a virtual world—it's a destination.
@@ -15,6 +13,13 @@ More than just a game environment, Redrock Ridge is a digital canvas where archi
 Instead of viewing projects in isolation, visitors experience them naturally while traveling across mountains, highways, forests, beaches, towns, and scenic landscapes.
 
 Whether you're taking a relaxing drive at sunset, photographing a landmark, exploring hidden roads, or presenting your latest architectural masterpiece, every journey becomes part of the experience.
+
+---
+# ▶️ Watch Demo
+
+Experience Redrock Ridge directly in your browser.
+
+https://youtu.be/xipszTTazMo
 
 ---
 
