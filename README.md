@@ -2,6 +2,8 @@
 
 <img width="1716" height="917" alt="a0eb4f90-49f2-40b4-bcf0-240e41b8bb1a" src="https://github.com/user-attachments/assets/14882907-f64c-457e-aaaf-54980aa8b837" />
 
+https://youtu.be/xipszTTazMo?si=NE9qWTab8BoAsaK0
+
 # 🌄 Escape. Explore. Experience.
 
 **Redrock Ridge** is more than a virtual world—it's a destination.
